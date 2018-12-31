@@ -1,0 +1,7 @@
+c:\users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.exe.config
+c:\users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.exe
+c:\users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.pdb
+c:\users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.csprojAssemblyReference.cache
+c:\users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.csproj.CoreCompileInputs.cache
+c:\users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.exe
+c:\users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.pdb

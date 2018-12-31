@@ -1,0 +1,6 @@
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.exe.config
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.exe
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\bin\Debug\MeasurementController.pdb
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\Bridge-MeasurementController.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.exe
+C:\Users\chara\source\repos\MeasurementController\MeasurementController\obj\Debug\MeasurementController.pdb

@@ -1,0 +1,7 @@
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\bin\Debug\Builder-SpecificMeasurement.exe.config
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\bin\Debug\Builder-SpecificMeasurement.exe
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\bin\Debug\Builder-SpecificMeasurement.pdb
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\obj\Debug\Builder-SpecificMeasurement.csprojAssemblyReference.cache
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\obj\Debug\Builder-SpecificMeasurement.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\obj\Debug\Builder-SpecificMeasurement.exe
+C:\Users\chara\source\repos\MeasurementController\Builder-SpecificMeasurement\obj\Debug\Builder-SpecificMeasurement.pdb
